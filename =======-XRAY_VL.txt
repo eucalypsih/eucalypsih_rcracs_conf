@@ -1,0 +1,53 @@
+=======-XRAY/VLESS=======
+Remarks: bedeng
+Domain: id3.dklongtong.xyz
+Quota: 1000 GB
+Reset Quota Strategy: Loss_doll
+=================================
+🔑 Port TLS: 443, 8443, 8880
+🔑 Port nonTLS: 80, 2082, 2083, 3128, 8080
+=================================
+id: da0d8a23-13c2-42b5-a630-8a4588b99dd6
+decryption: none
+=================================
+network: reality/ws/grpc
+=================================
+path:
+a.) WS: /vless atau /enter-your-custom-path/vless
+b.) WS Antiads: /vless-antiads
+c.) WS Anti Ads & porn: /vless-antiporn
+d.) GRPC: Vless-GRPC
+=================================
+alpn:
+a.) WS: http/1.1
+b.) GRPC: h2
+=================================
+tls:
+a.) WS: true (tls), false (nontls)
+b.) GRPC: true
+=================================
+Reality Settings
+flow: xtls-rprx-vision
+serverNames: {cek di config}
+PublicKey: M1PTcxApfZYmc8mbUUdMncKejBxZbjEwHGEl68zjlWU
+shortIds: 87ae7e1887f2bd1e
+client-fingerprint: chrome
+gRPC serviceName: vless-reality-service
+=================================
+allowInsecure: true
+=================================
+VLess-TCP REALITY TLS: vless://da0d8a23-13c2-42b5-a630-8a4588b99dd6@id3.dklongtong.xyz:443?security=reality&type=tcp&host=&headerType=&path=&sni=teams.microsoft.com&fp=chrome&pbk=M1PTcxApfZYmc8mbUUdMncKejBxZbjEwHGEl68zjlWU&sid=87ae7e1887f2bd1e&spx=#%28bedeng%29%20%5BVLESS%20-%20tcp%5D%20REALITY
+=================================
+VLess-WS TLS: vless://da0d8a23-13c2-42b5-a630-8a4588b99dd6@id3.dklongtong.xyz:443?security=tls&type=ws&host=id3.dklongtong.xyz&headerType=&path=%2Fvless&sni=&fp=&alpn=http%2F1.1#%28bedeng%29%20%5BVLESS%20-%20WS%5D%20TLS
+=================================
+VLess-WS nonTLS: vless://da0d8a23-13c2-42b5-a630-8a4588b99dd6@id3.dklongtong.xyz:80?security=none&type=ws&host=id3.dklongtong.xyz&headerType=&path=%2Fvless#%28bedeng%29%20%5BVLESS%20-%20WS%5D%20nonTLS
+=================================
+VLess-GRPC TLS : vless://da0d8a23-13c2-42b5-a630-8a4588b99dd6@id3.dklongtong.xyz:443?security=tls&type=grpc&host=id3.dklongtong.xyz&headerType=&serviceName=Vless-GRPC&sni=id3.dklongtong.xyz&fp=&alpn=h2#%28bedeng%29%20%5BVLESS%20-%20GRPC%5D%20TLS
+=================================
+VLess-GRPC REALITY TLS : vless://da0d8a23-13c2-42b5-a630-8a4588b99dd6@id3.dklongtong.xyz:443?security=reality&type=grpc&host=&headerType=serviceName=vless-reality-service&sni=teams.microsoft.com&fp=chrome&pbk=M1PTcxApfZYmc8mbUUdMncKejBxZbjEwHGEl68zjlWU&sid=87ae7e1887f2bd1e&spx=#%28bedeng%29%20%5BVLESS%20-%20gRPC%5D%20REALITY
+=================================
+Link Subscription : https://id3.dklongtong.xyz/sub/YmVkZW5nLDE3Njk5NDkzNjAmLS7o7Y_bE
+=================================
+Masa Aktif: 30 Hari
+Masa OnHold: 14 Hari [2026-02-15T19:35:59]
+root@IDDVPS:~#
