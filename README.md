@@ -18,6 +18,7 @@ User-Agent: [ua]\r
 Upgrade: websocket\r
 \r
 
+shopee dklongtong https://drive.google.com/file/d/1AS8zuxxtj6FG46BTgDwf5-IF62VpI-75/view?usp=drivesdk
 
 
 
