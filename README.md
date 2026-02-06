@@ -1,4 +1,4 @@
-# eucalypsih_rcrn_conf
+# eucalypsih_rcracs_conf
 GET / HTTP/1.1\r
 Host: [host]\r
 Upgrade: websocket\r
@@ -18,8 +18,8 @@ User-Agent: [ua]\r
 Upgrade: websocket\r
 \r
 
-shopee dklongtong =======-XRAY_VL.txt fnr=vl_dklongtong_shopee.txt https://drive.google.com/file/d/1AS8zuxxtj6FG46BTgDwf5-IF62VpI-75/view?usp=drivesdk
+shopee dklongtong fno="=======-XRAY_VL.txt" fnr="vl_dklongtong_shopee.txt" fao=https://drive.google.com/file/d/1AS8zuxxtj6FG46BTgDwf5-IF62VpI-75/view?usp=drivesdk
 
-
+id2.arvpn.web.id:8880@eucal:ypsih
 
 
